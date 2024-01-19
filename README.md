@@ -1,6 +1,5 @@
 # Continuous Feedback Application
 
-Overview
 The Continuous Feedback Application is an innovative web-based platform designed to revolutionize the way feedback is given and received during educational activities like courses and seminars. Built with a robust combination of React and TailwindCSS for a sleek and responsive front-end, and Node.js with Express for a seamless and efficient back-end, this application stands out for its user-friendly interface and powerful features.
 
 The application adopts a Single Page Application (SPA) architecture, ensuring a smooth and uninterrupted user experience. It's meticulously crafted to be responsive and accessible across various devices including desktops, tablets, and mobile phones, catering to the diverse preferences of its users.
